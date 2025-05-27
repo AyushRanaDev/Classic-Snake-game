@@ -13,6 +13,7 @@ This is a classic snake game built using HTML, CSS, and JavaScript. The game fea
 3. Avoid colliding with the snake's own body.
 
 ## Screenshots
+![Screenshot 2025-05-27 213058](https://github.com/user-attachments/assets/5e5c81ea-9330-4723-8070-3c9f031245a0)
 ![Screenshot 2025-05-27 213109](https://github.com/user-attachments/assets/e5584fb0-f6b4-4da5-9e63-bd61e2b18cdf)
 
 
