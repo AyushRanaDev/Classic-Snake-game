@@ -12,6 +12,10 @@ This is a classic snake game built using HTML, CSS, and JavaScript. The game fea
 2. Eat the red food to grow the snake and increase your score.
 3. Avoid colliding with the snake's own body.
 
+## Screenshots
+![Screenshot 2025-05-27 213109](https://github.com/user-attachments/assets/e5584fb0-f6b4-4da5-9e63-bd61e2b18cdf)
+
+
 ## Installation
 1. Clone this repository:
    ```bash
